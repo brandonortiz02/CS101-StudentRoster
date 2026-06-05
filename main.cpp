@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 
     // F1 — course info header
-    cout << "Course Title: Scripting and Programming - Applications — C867" << endl;
+    cout << "Course Title: Scripting and Programming - Applications - C867" << endl;
     cout << "Programming Language: C++" << endl;
     cout << "Student ID: 900821299" << endl;
     cout << "Student Name: Brandon Ortiz" << endl;
