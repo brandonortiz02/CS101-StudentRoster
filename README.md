@@ -7,7 +7,7 @@
 
 ## Description
 
-This is a C++ console application that manages a student roster for a university course. It reads a hardcoded dataset of five students, parses the comma-separated values into Student objects, and stores them in an array of pointers. The program can print all students, validate email addresses, calculate average days in course per student, filter students by degree program, and remove students by ID.
+This is a C++ console application that manages a student roster for a cs101 college course im taking. It reads a hardcoded dataset of five students, parses the comma-separated values into Student objects, and stores them in an array of pointers. The program can print all students, validate email addresses, calculate average days in course per student, filter students by degree program, and remove students by ID.
 
 ## Files
 
